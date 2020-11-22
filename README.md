@@ -15,18 +15,18 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   
-  # Installation Instructions
+ # Installation Instructions
   
   
   clone this repo down to your local computer
-  # Usage 
+ # Usage 
   Once you have cloned it to your local directory type node index.js and answer the questions
-  # License
+ # License
   Copyright (c) 2020, Justin Pricer
 All rights reserved.
   This source code is licensed under the GNU General Public License v3.0 found in the
 LICENSE file in the root directory of this source tree. 
-  # Contributing
+ # Contributing
   
   - Fork The Project Repo
   - Clone to your local computer
@@ -39,13 +39,9 @@ LICENSE file in the root directory of this source tree.
   - Open a pull request
   
   
-  # Tests
+# Tests
   npm run test
-  # Questions
-  
-  [Github Profile Link](https://github.com/justinpricer)
-  - email: [justin.pricer@gmail.com](mailto:justin.pricer@gmail.com) with your name in the subject for any questions
-=======
+
 # readmeGen
 
 ## Description:
@@ -63,7 +59,7 @@ The application will be invoked by using the following command:
 ## Contributing:
 Justin Pricer
 
-Questions
+# Questions
 For any questions visit - https://github.com/justinpricer
 Email- justin.pricer@gmail.com
 
