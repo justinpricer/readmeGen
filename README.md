@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # README Generator
   ![Shield](https://img.shields.io/static/v1?label=License&message=GNU_General_Public_License_v3.0&color=green)
@@ -44,3 +45,25 @@ LICENSE file in the root directory of this source tree.
   
   [Github Profile Link](https://github.com/naywilkins512)
   - email: [nathanwilkins01@gmail.com](mailto:nathanwilkins01@gmail.com) with your name in the subject for any questions
+=======
+# readmeGen
+
+## Description:
+When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
+
+You can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
+
+The task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. Review the Good README Guide as a reminder of everything that a high-quality, professional README should contain.
+
+The application will be invoked by using the following command:
+## Installation:
+<pre>To call the script, install and call 'node index.js' in the correct file location.</pre>
+## Usage:
+<pre>Creating Dynamic README.md files</pre>
+## Contributing:
+Justin Pricer
+
+Questions
+For any questions visit - https://github.com/justinpricer
+Email- justin.pricer@gmail.com
+>>>>>>> e0f462ca471763df0686c4d0a79d94c0461ad93b
